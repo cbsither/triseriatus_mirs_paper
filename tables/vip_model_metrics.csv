@@ -1,0 +1,5 @@
+Metric,Value,CI (2.5%),CI (97.5%)
+Recall/Sensitivity,0.905,0.766,0.99
+Precision/Specificity,0.905,0.762,0.99
+Accuracy,0.882,0.765,0.971
+F1 Score,0.905,0.791,0.98
