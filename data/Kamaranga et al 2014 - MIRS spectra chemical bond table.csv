@@ -1,0 +1,18 @@
+﻿Spectral Band (cm-1) (start),Spectral Band (cm-1) (end),Assignment,Origin,water,chitin,wax,protein
+3150,3650,OH Stretch,"chitin, water",1,1,0,0
+3150,3650,NH (As) Stretch,"chitin, protein",0,1,0,1
+2950,2970,CH3 (As) Stretch,"chitin, wax",0,1,1,0
+2910,2940,CH2 (As) Stretch,"chitin, wax",0,1,1,0
+2865,2880,CH3 (S) Stretch,"chitin, wax",0,1,1,0
+2840,2860,CH2 (S) Stretch,"chitin, wax",0,1,1,0
+1620,1650,C=O Stretch (Amide I),"chitin, protein",0,1,0,1
+1525,1550,Out-of-phase combination of N-H in plane bend and C-N Stretch (Amide II),"chitin, protein",0,1,0,1
+1500,1525,Amide II,"chitin, protein",0,1,0,1
+1440,1460,CH2 bend,"chitin, wax",0,1,1,0
+1390,1420,"C-H, C-CH3 bend","chitin, wax",0,1,1,0
+1370,1390,"C-H, C-CH3 bend","chitin, wax",0,1,1,0
+1300,1320,In phase combination of N-H in plane bend and C-H,"chitin, protein",0,1,0,1
+1220,1250,N-H bend,"chitin, protein",0,1,0,1
+1130,1170,C-O-C ring (As) Stretch,chitin,0,1,0,0
+940,1130,C-O Stretch,chitin,0,1,0,0
+450,880,C-C bend,chitin,0,1,0,0
